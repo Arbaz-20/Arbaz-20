@@ -41,7 +41,7 @@ education:
 
 certification: SAFe 6.0 POPM — Certified Product Owner / Product Manager
 
-fun_fact: "I debug distributed systems for breakfast"
+fun_fact: "I talk to databases more than I talk to people"
 ```
 
 ---
