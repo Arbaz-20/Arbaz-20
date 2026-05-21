@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Arbaz%20Ayub%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Backend%20Architect%20%7C%20Node.js%20%26%20TypeScript&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Arbaz+Ayub+Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=Building+scalable+systems+that+handle+millions+of+requests+%F0%9F%9A%80;Leading+30%2B+engineers+to+ship+production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://github.com/Arbaz-20">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=620&height=45&lines=Engineering+Manager+%7C+Backend+Architect;Node.js+%26+TypeScript+%7C+Microservices+%7C+RabbitMQ;Leading+30%2B+Engineers+%7C+2M%2B+Requests%2FMonth" alt="Typing SVG" />
+</a>
 
-<!-- QUICK BADGES -->
-<p>
-<a href="https://www.linkedin.com/in/arbaz-khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arbazkhan37015@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/arbaz-khan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=arbaz-khan&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
-</p>
+<br/>
+
+<!-- QUICK LINKS -->
+<a href="https://www.linkedin.com/in/arbaz-ayub-khan-a15955190/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:arbazkhan37015@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Arbaz-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Arbaz-20&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -37,7 +39,7 @@ education:
 
 certification: SAFe 6.0 POPM — Certified Product Owner / Product Manager
 
-fun_fact: "I debug distributed systems for breakfast ☕"
+fun_fact: "I debug distributed systems for breakfast"
 ```
 
 ---
@@ -113,12 +115,15 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arbaz-khan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz-khan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arbaz-20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaz-20&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaz-khan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160"/>
 </div>
 
 ---
@@ -144,32 +149,24 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 
 ## 🔥 Featured Projects
 
-<div align="center">
+> **🏢 Enterprise E-Commerce Backend** — NestJS + Sequelize + PostgreSQL + JWT
+> 10 ERP-style modules (Auth, Users, Products, Cart, Orders, Payments, Inventory...)
+> 79-file production-ready architecture with Swagger docs
 
-<a href="https://github.com/arbaz-khan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arbaz-khan&repo=nestjs-ecommerce-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+> **🚢 ERP Service Portal** — Node.js + TypeScript + PostgreSQL
+> 15+ modules: Vessel Management, Procurement, Crew, Voyage Planning, Finance, Compliance
+> RBAC, multi-tenant isolation, audit logging — enterprise-grade
 
-</div>
-
-> **🏢 Enterprise E-Commerce Backend** — NestJS + Sequelize + PostgreSQL + JWT  
-> 10 ERP-style modules (Auth, Users, Products, Cart, Orders, Payments, Inventory...)  
-> 79-file production-ready architecture with Swagger docs  
-
-> **🚢 ERP Service Portal** — Node.js + TypeScript + PostgreSQL  
-> 15+ modules: Vessel Management, Procurement, Crew, Voyage Planning, Finance, Compliance  
-> RBAC, multi-tenant isolation, audit logging — enterprise-grade  
-
-> **📊 CRM Portal** — Node.js + Express + RabbitMQ + PostgreSQL  
-> Lead Management, Sales Pipeline, Contract Lifecycle, Dashboard Analytics  
-> Event-driven sync with ERP via RabbitMQ  
+> **📊 CRM Portal** — Node.js + Express + RabbitMQ + PostgreSQL
+> Lead Management, Sales Pipeline, Contract Lifecycle, Dashboard Analytics
+> Event-driven sync with ERP via RabbitMQ
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arbaz-khan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -180,7 +177,7 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 
 I'm always open to discussing **backend architecture**, **system design**, **engineering leadership**, or **collaboration opportunities**.
 
-<a href="https://www.linkedin.com/in/arbaz-khan"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arbaz-ayub-khan-a15955190/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:arbazkhan37015@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -190,7 +187,5 @@ I'm always open to discussing **backend architecture**, **system design**, **eng
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
-
-**⭐ If you find my work useful, consider giving a star!**
 
 </div>
