@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Arbaz-20">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=40&lines=Microservices+%7C+RabbitMQ+%7C+Event-Driven+Architecture;99.9%25+Uptime+%7C+2M%2B+Requests+per+Month;SAFe+6.0+Certified+%7C+Agile+Delivery+Leader" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=480&height=35&lines=Microservices+%7C+RabbitMQ+%7C+Event-Driven;99.9%25+Uptime+%7C+2M%2B+Requests+%2F+Month;SAFe+6.0+Certified+%7C+Agile+Delivery" alt="Typing SVG" />
 </a>
 
 <br/>
