@@ -53,39 +53,36 @@
   <ellipse cx="350" cy="140" rx="250" ry="80" fill="url(#glow)"/>
   
   <!-- Name -->
-  <text x="68" y="130" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="42" fill="#ffffff" filter="url(#shadow)">Arbaz Ayub Khan</text>
+  <text x="68" y="120" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="42" fill="#ffffff" filter="url(#shadow)">Arbaz Ayub Khan</text>
   
   <!-- Role tags -->
-  <!-- Tag 1: Engineering Manager -->
-  <rect x="68" y="155" width="195" height="28" rx="6" fill="#238636" opacity="0.9"/>
-  <text x="165" y="174" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="13" fill="#ffffff" text-anchor="middle">Engineering Manager</text>
+  <rect x="68" y="140" width="195" height="28" rx="6" fill="#238636" opacity="0.9"/>
+  <text x="165" y="159" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="13" fill="#ffffff" text-anchor="middle">Engineering Manager</text>
   
-  <!-- Tag 2: Lead Backend Engineer -->
-  <rect x="273" y="155" width="195" height="28" rx="6" fill="#58a6ff" opacity="0.9"/>
-  <text x="370" y="174" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="13" fill="#ffffff" text-anchor="middle">Lead Backend Engineer</text>
+  <rect x="273" y="140" width="195" height="28" rx="6" fill="#58a6ff" opacity="0.9"/>
+  <text x="370" y="159" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="13" fill="#ffffff" text-anchor="middle">Lead Backend Engineer</text>
   
-  <!-- Tag 3: Node.js & TypeScript -->
-  <rect x="478" y="155" width="185" height="28" rx="6" fill="#30363d" opacity="0.9" stroke="#484f58" stroke-width="1"/>
-  <text x="570" y="174" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="13" fill="#c9d1d9" text-anchor="middle">Node.js &amp; TypeScript</text>
+  <rect x="478" y="140" width="185" height="28" rx="6" fill="#30363d" opacity="0.9" stroke="#484f58" stroke-width="1"/>
+  <text x="570" y="159" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="13" fill="#c9d1d9" text-anchor="middle">Node.js &amp; TypeScript</text>
   
   <!-- Subtitle -->
-  <text x="68" y="220" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="15" fill="#8b949e">Building scalable systems that handle millions of requests</text>
-  <text x="68" y="245" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="15" fill="#8b949e">Leading 30+ engineers · Microservices · RabbitMQ · Mumbai, India</text>
+  <text x="68" y="200" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="15" fill="#8b949e">Building scalable systems that handle millions of requests</text>
+  <text x="68" y="222" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="15" fill="#8b949e">Leading 30+ engineers · Microservices · RabbitMQ · Mumbai, India</text>
   
   <!-- Bottom accent line -->
-  <rect x="68" y="272" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+  <rect x="68" y="245" width="120" height="3" rx="1.5" fill="url(#accent)"/>
   
-  <!-- Terminal prompt decoration (right side) -->
-  <g transform="translate(640, 50)" opacity="0.5">
-    <rect width="220" height="140" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <!-- Terminal prompt decoration — bottom right, no overlap -->
+  <g transform="translate(580, 185)" opacity="0.6">
+    <rect width="280" height="90" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
     <circle cx="16" cy="14" r="4" fill="#ff5f57"/>
     <circle cx="30" cy="14" r="4" fill="#febc2e"/>
     <circle cx="44" cy="14" r="4" fill="#28c840"/>
-    <text x="12" y="42" font-family="Courier New, monospace" font-size="10" fill="#58a6ff">$ kubectl get pods</text>
-    <text x="12" y="58" font-family="Courier New, monospace" font-size="10" fill="#3fb950">✓ All systems running</text>
-    <text x="12" y="78" font-family="Courier New, monospace" font-size="10" fill="#58a6ff">$ npm run deploy</text>
-    <text x="12" y="94" font-family="Courier New, monospace" font-size="10" fill="#3fb950">✓ Deployed to prod</text>
-    <text x="12" y="114" font-family="Courier New, monospace" font-size="10" fill="#58a6ff">$ rabbitmqctl status</text>
-    <text x="12" y="130" font-family="Courier New, monospace" font-size="10" fill="#3fb950">✓ 2M+ msgs processed</text>
+    <text x="12" y="40" font-family="Courier New, monospace" font-size="11" fill="#58a6ff">$ kubectl get pods</text>
+    <text x="175" y="40" font-family="Courier New, monospace" font-size="11" fill="#3fb950">✓ running</text>
+    <text x="12" y="58" font-family="Courier New, monospace" font-size="11" fill="#58a6ff">$ npm run deploy</text>
+    <text x="175" y="58" font-family="Courier New, monospace" font-size="11" fill="#3fb950">✓ success</text>
+    <text x="12" y="76" font-family="Courier New, monospace" font-size="11" fill="#58a6ff">$ rabbitmqctl status</text>
+    <text x="175" y="76" font-family="Courier New, monospace" font-size="11" fill="#3fb950">✓ 2M+ msgs</text>
   </g>
 </svg>
