@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Arbaz-20">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=620&height=45&lines=Engineering+Manager+%7C+Backend+Architect;Node.js+%26+TypeScript+%7C+Microservices+%7C+RabbitMQ;Leading+30%2B+Engineers+%7C+2M%2B+Requests%2FMonth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=Engineering+Manager+%7C+Lead+Backend+Engineer;Node.js+%26+TypeScript+%7C+Microservices+%7C+RabbitMQ;Leading+30%2B+Engineers+%7C+2M%2B+Requests%2FMonth" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@ fun_fact: "I debug distributed systems for breakfast"
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Backend Architecture
+### 💻 Lead Backend Engineering
 Building production-grade **microservices** with Node.js and TypeScript. Designing event-driven systems with **RabbitMQ** that handle millions of requests with 99.9% uptime.
 
 ### 👥 Engineering Leadership
@@ -115,16 +115,33 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arbaz-20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180"/>
+
+<!-- GitHub Trophies — reliable, hosted by ryo-ma -->
+<img src="https://github-profile-trophy.vercel.app/?username=Arbaz-20&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+
+<br/><br/>
+
+<!-- GitHub Stats using anuraghazra's PAT-backed instance -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arbaz-20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbaz-20&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+</picture>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaz-20&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Arbaz-20&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=Arbaz-20&theme=github-dark-blue&hide_border=true" height="180" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
+</picture>
+
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160"/>
-</div>
+> **💡 Note:** If stats cards show "loading" or appear blank, they'll auto-refresh within a few minutes — this is a known GitHub API rate-limit issue with free-tier widgets.
 
 ---
 
@@ -166,8 +183,15 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="95%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Arbaz's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-20&theme=github-dark&hide_border=true" width="95%" />
+</picture>
+
 </div>
+
+> **💡 Tip:** If the graph above appears blank, [deploy your own instance](https://github.com/Ashutosh00710/github-readme-activity-graph) for 100% uptime.
 
 ---
 
