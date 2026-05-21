@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Arbaz+Ayub+Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<!-- CUSTOM HEADER BANNER — commit header-banner.svg to your repo root -->
+<img src="./header-banner.svg" width="100%"/>
+
+<br/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Arbaz-20">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=Engineering+Manager+%7C+Lead+Backend+Engineer;Node.js+%26+TypeScript+%7C+Microservices+%7C+RabbitMQ;Leading+30%2B+Engineers+%7C+2M%2B+Requests%2FMonth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=40&lines=Microservices+%7C+RabbitMQ+%7C+Event-Driven+Architecture;99.9%25+Uptime+%7C+2M%2B+Requests+per+Month;SAFe+6.0+Certified+%7C+Agile+Delivery+Leader" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -210,6 +212,6 @@ I'm always open to discussing **backend architecture**, **system design**, **eng
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+<sub>⭐ If you find my work useful, consider giving a star!</sub>
 
 </div>
