@@ -22,27 +22,32 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2>🧑‍💻 About Me</h2>
 
-```yaml
-name: Arbaz Ayub Khan
-location: Mumbai, Maharashtra, India
-role: Engineering Manager @ Smartmarine
-experience: 4+ years in Backend Engineering & Team Leadership
+<table>
+<tr>
+<td width="40%" valign="middle" align="center">
 
-currently:
-  - Leading 30+ developers across maritime SaaS platform services
-  - Architecting event-driven microservices processing 2M+ requests/month
-  - Driving 99.9% uptime on production RabbitMQ messaging infrastructure
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
 
-education:
-  masters: M.Sc. Computer Science — University of Mumbai (CGPA: 8.88/10)
-  bachelors: B.Sc. Computer Science — University of Mumbai (CGPA: 8.23/10)
+</td>
+<td width="60%" valign="middle">
 
-certification: SAFe 6.0 POPM — Certified Product Owner / Product Manager
+### 👋 Hi, I'm **Arbaz Ayub Khan**
 
-fun_fact: "I talk to databases more than I talk to people"
-```
+#### 🚀 Engineering Manager @ **Smartmarine** — based in **Mumbai, India**
+
+I'm a backend-focused engineer with **4+ years** of experience building **event-driven microservices** and leading high-performing teams.
+
+I currently lead **30+ developers** shipping a maritime SaaS platform that processes **2M+ requests per month** at **99.9% uptime** on production **RabbitMQ** infrastructure.
+
+🎓 &nbsp;**M.Sc. Computer Science** — Mumbai University &nbsp;`8.88/10`
+🏅 &nbsp;**SAFe 6.0 POPM** Certified Product Owner / Manager
+💬 &nbsp;*"I talk to databases more than I talk to people"*
+
+</td>
+</tr>
+</table>
 
 ---
 
