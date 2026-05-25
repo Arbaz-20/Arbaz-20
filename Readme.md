@@ -41,13 +41,21 @@ I'm a backend-focused engineer with **4+ years** of experience building **event-
 
 I currently lead **30+ developers** shipping a maritime SaaS platform that processes **2M+ requests per month** at **99.9% uptime** on production **RabbitMQ** infrastructure.
 
-🎓 &nbsp;**M.Sc. Computer Science** — Mumbai University &nbsp;`8.88/10`
-🏅 &nbsp;**SAFe 6.0 POPM** Certified Product Owner / Manager
-💬 &nbsp;*"I talk to databases more than I talk to people"*
-
 </td>
 </tr>
 </table>
+
+---
+
+## 🎓 Education & Credentials
+
+<div align="center">
+
+| 🎓 Education | 🏅 Certification | 💬 Motto |
+|:---:|:---:|:---:|
+| **M.Sc. Computer Science** <br/> Mumbai University <br/> `CGPA 8.88 / 10` | **SAFe 6.0 POPM** <br/> Certified Product Owner / <br/> Product Manager | *"I talk to databases <br/> more than I talk <br/> to people"* |
+
+</div>
 
 ---
 
