@@ -53,7 +53,7 @@ I currently lead **30+ developers** shipping a maritime SaaS platform that proce
 
 | 🎓 Education | 🏅 Certification | 💬 Motto |
 |:---:|:---:|:---:|
-| **M.Sc. Computer Science** <br/> Mumbai University <br/> `CGPA 8.88 / 10` | **SAFe 6.0 POPM** <br/> Certified Product Owner / <br/> Product Manager | *"I talk to databases <br/> more than I talk <br/> to people"* |
+| **M.Sc. Computer Science** <br/> Mumbai University <br/> `CGPA 8.88 / 10` <br/><br/> **B.Sc. Computer Science** <br/> Mumbai University <br/> `CGPA 8.23 / 10` | **SAFe 6.0 POPM** <br/> Certified Product Owner / <br/> Product Manager | *"I talk to databases <br/> more than I talk <br/> to people"* |
 
 </div>
 
@@ -134,39 +134,6 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Trophies — reliable, hosted by ryo-ma -->
-<img src="https://github-profile-trophy.vercel.app/?username=Arbaz-20&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-
-<br/><br/>
-
-<!-- GitHub Stats using anuraghazra's PAT-backed instance -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arbaz-20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbaz-20&show_icons=true&theme=github_dark&hide_border=true" height="180" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Arbaz-20&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <img src="https://streak-stats.demolab.com?user=Arbaz-20&theme=github-dark-blue&hide_border=true" height="180" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
-</picture>
-
-</div>
-
-> **💡 Note:** If stats cards show "loading" or appear blank, they'll auto-refresh within a few minutes — this is a known GitHub API rate-limit issue with free-tier widgets.
 
 ---
 
