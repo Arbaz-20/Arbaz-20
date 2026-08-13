@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=Arbaz%20Ayub%20Khan&fontSize=60&fontColor=fff&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Lead%20Backend%20Engineer%20%7C%20Event-Driven%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="header-banner.svg" alt="Arbaz Ayub Khan" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900">
 
@@ -95,14 +95,6 @@ const arbaz: EngineeringManager = {
   principle: "Simple · Tested · Observable · Built for production",
 };
 ```
-
-<div align="center">
-
-```bash
-npx arbaz-ayub-khan  # Coming soon: CLI tool to showcase my work!
-```
-
-</div>
 
 ---
 
