@@ -115,10 +115,16 @@ Hey! I'm **Arbaz Ayub Khan**, an **Engineering Manager & Lead Backend Engineer**
 
 <div align="center">
 
-| 🎓 Education | 🏅 Certification | 💬 Motto |
+| 🎓 Qualification | 🏛️ Institute / Issuer | 📊 Score |
 |:---:|:---:|:---:|
-| **M.Sc. Computer Science** <br/> Mumbai University <br/> `CGPA 8.88 / 10` <br/><br/> **B.Sc. Computer Science** <br/> Mumbai University <br/> `CGPA 8.23 / 10` | **SAFe 6.0 POPM** <br/> Certified Product Owner / <br/> Product Manager | *"I talk to databases <br/> more than I talk <br/> to people"* |
+| **M.Sc. Computer Science** | Mumbai University | `CGPA 8.88 / 10` |
+| **B.Sc. Computer Science** | Mumbai University | `CGPA 8.23 / 10` |
+| 🏅 **SAFe® 6.0 POPM** | Certified Product Owner / Product Manager | ✔ Certified |
 
+</div>
+
+<div align="center">
+<sub><i>"I talk to databases more than I talk to people."</i></sub>
 </div>
 
 ---
@@ -247,7 +253,8 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 | ⏱️ **MTTR Reduction** | 40% faster incident resolution |
 | 🐛 **Bug Backlog** | 35% reduction through tech debt initiative |
 | 🚢 **Time to Market** | 20% faster delivery with SAFe practices |
-| 📦 **ERP Modules** | 15+ integrated enterprise modules shipped |
+| 📦 **ERP Modules** | 30+ integrated enterprise modules shipped |
+| 📧 **Email Automation** | 85% of a 53-feature mail-to-ticket spec delivered — Gmail & Outlook sync, threading, filtering |
 
 </div>
 
@@ -274,7 +281,7 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 | 🏢 **Enterprise E-Commerce Backend** | Production-ready backend with 10 ERP-style modules — Auth, Users, Products, Cart, Orders, Payments, Inventory — across a 79-file architecture with full Swagger docs. | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | 10 modules |
 | 🚢 **ERP Service Portal** | Maritime SaaS platform with 15+ modules: Vessel Management, Procurement, Crew, Voyage Planning, Finance, Compliance. RBAC, multi-tenant isolation, audit logging — enterprise-grade. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 2M+ req/mo |
 | 📊 **CRM Portal** | Lead Management, Sales Pipeline, Contract Lifecycle and Dashboard Analytics — kept in sync with the ERP through event-driven RabbitMQ messaging. | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Event-driven |
-| 📧 **Email Ticketing Portal** | Mail-to-ticket engine for shared support inboxes — Gmail & Microsoft 365 mail sync, spam/auto-reply filtering, auto-raised branch-routed tickets with attachments, `[TKT-…]` conversation threading, customer acknowledgements & replies, AES-256 encrypted mailbox credentials and retry-safe processing. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Gmail API](https://img.shields.io/badge/-Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white) ![Microsoft Graph](https://img.shields.io/badge/-Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Cron Schedulers](https://img.shields.io/badge/-Cron_Schedulers-FF6F00?style=flat-square) | 53-feature build |
+| 📧 **Email Ticketing Portal** | Mail-to-ticket engine for shared support inboxes — Gmail & Microsoft 365 mail sync, spam/auto-reply filtering, auto-raised branch-routed tickets with attachments, `[TKT-…]` conversation threading, customer acknowledgements & replies, AES-256 encrypted mailbox credentials and retry-safe processing. | ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Gmail API](https://img.shields.io/badge/-Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white) ![Outlook Graph API](https://img.shields.io/badge/-Outlook_Graph_API-0078D4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 53-feature build |
 
 ---
 
