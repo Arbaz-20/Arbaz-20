@@ -2,8 +2,6 @@
 
 <img width="100%" src="header-banner.svg" alt="Arbaz Ayub Khan" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900">
-
 # 🧑‍💻 Arbaz Ayub Khan
 
 **Engineering Manager & Lead Backend Engineer** | Node.js · TypeScript · RabbitMQ · Microservices · System Design
@@ -32,7 +30,7 @@
 
 ### 🧭 Quick Navigation
 
-[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🎓 Credentials](#-education--credentials) · [⚡ What I Do](#-what-i-do) · [🛠️ Tech Stack](#️-tech-stack) · [🏆 Achievements](#-key-achievements) · [🚀 Projects](#-featured-projects) · [📈 Activity](#-contribution-graph) · [🤝 Connect](#-lets-build-something-together)
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🎓 Qualifications](#-education-qualifications) · [⚡ What I Do](#-what-i-do) · [🛠️ Tech Stack](#️-tech-stack) · [🏆 Achievements](#-key-achievements) · [🚀 Projects](#-featured-projects) · [🤝 Connect](#-lets-build-something-together)
 
 </div>
 
@@ -52,11 +50,11 @@
 <br>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arbaz-20&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-20&theme=tokyo-night&hide_border=true" width="48%" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arbaz-20&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<!-- Temporarily removed — services returned HTTP 402 (Vercel bandwidth exceeded), showing broken icons:
+     - github-readme-activity-graph.vercel.app/graph?username=Arbaz-20
+     - github-profile-trophy.vercel.app/?username=Arbaz-20
+     Re-add them once the instances are back up. -->
 
 </div>
 
@@ -68,41 +66,52 @@
 
 ## 👋 About Me
 
-```typescript
-const arbaz: EngineeringManager = {
-  name:     "Arbaz Ayub Khan",
-  role:     "Engineering Manager & Lead Backend Engineer",
-  company:  "Smartmarine",
-  location: "🌍 Mumbai, India",
+<div align="center">
 
-  focus: [
-    "🚀 Event-driven microservices with RabbitMQ & Kafka",
-    "👥 Leading and mentoring 30+ developers",
-    "🏗️ Multi-tenant enterprise system design",
-    "📋 Agile delivery at scale — SAFe 6.0 certified",
-  ],
+### 🧭 *Engineering reliable systems — and the people who build them*
 
-  stack: {
-    languages: ["TypeScript", "JavaScript", "Python", "Java"],
-    backend:   ["Node.js", "NestJS", "Express", "Fastify", "Spring Boot"],
-    database:  ["PostgreSQL", "MySQL", "MongoDB", "CockroachDB", "Redis"],
-    messaging: ["RabbitMQ", "Apache Kafka"],
-    orm:       ["Sequelize", "Prisma", "Drizzle", "Hibernate"],
-    devOps:    ["Docker", "Linux", "GitHub Actions", "Jira"],
-  },
+Hey! I'm **Arbaz Ayub Khan**, an **Engineering Manager & Lead Backend Engineer** from Mumbai, India. I design **fault-tolerant, event-driven platforms** at **Smartmarine** and lead the **30+ engineers** who ship them — systems so reliable, you never have to think about them.
 
-  scale:     "2M+ requests/month at 99.9% uptime",
-  principle: "Simple · Tested · Observable · Built for production",
-};
-```
+| 🚀 **2M+** | 🟢 **99.9%** | 👥 **30+** | 🧩 **30+** | ⏱️ **40%** |
+|:---:|:---:|:---:|:---:|:---:|
+| *requests / month* | *uptime* | *engineers led* | *modules shipped* | *faster MTTR* |
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ What I Build
+
+- **Distributed systems** — Node.js, TypeScript, RabbitMQ & Kafka microservices at scale
+- **Enterprise platforms** — multi-tenant SaaS, granular RBAC, high-throughput pipelines
+- **Reliability engineering** — zero-downtime deploys & data design that survives failure
+
+</td>
+<td width="50%" valign="top">
+
+#### 👥 What I Lead
+
+- **A 30+ developer org** — hiring, mentoring & growing the next set of leaders
+- **Quality & velocity** — structured reviews, tech-debt paydown → **+30% productivity**
+- **Delivery & incidents** — SAFe® 6.0 (POPM) & triage frameworks → **40% faster MTTR**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub><i>"Simple · Tested · Observable · Built to survive production."</i></sub>
+</div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Education%20%26%20Credentials&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Education%20Qualifications&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 🎓 Education & Credentials
+## 🎓 Education Qualifications
 
 <div align="center">
 
@@ -154,8 +163,11 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,py,java,spring,react,postgres,mysql,mongodb,redis,kafka,docker,linux,jest,git&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,java,nestjs,express,spring,html,css,react,rabbitmq,kafka,mysql,postgres,mongodb,redis,sequelize,prisma,hibernate,docker,git,github,linux,jest&theme=dark&perline=13" alt="Tech Stack Icons" />
 </a>
+
+<!-- NOTE: skillicons.dev has no icons for Fastify, Swagger, JWT, CockroachDB, Drizzle and Jira —
+     those are covered by the badges below the icon grid. -->
 
 <br><br>
 
@@ -262,68 +274,33 @@ Architecting **ERP portals**, **CRM platforms**, and **e-commerce backends** wit
 | 🏢 **Enterprise E-Commerce Backend** | Production-ready backend with 10 ERP-style modules — Auth, Users, Products, Cart, Orders, Payments, Inventory — across a 79-file architecture with full Swagger docs. | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | 10 modules |
 | 🚢 **ERP Service Portal** | Maritime SaaS platform with 15+ modules: Vessel Management, Procurement, Crew, Voyage Planning, Finance, Compliance. RBAC, multi-tenant isolation, audit logging — enterprise-grade. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 2M+ req/mo |
 | 📊 **CRM Portal** | Lead Management, Sales Pipeline, Contract Lifecycle and Dashboard Analytics — kept in sync with the ERP through event-driven RabbitMQ messaging. | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Event-driven |
+| 📧 **Email Ticketing Portal** | Mail-to-ticket engine for shared support inboxes — Gmail & Microsoft 365 mail sync, spam/auto-reply filtering, auto-raised branch-routed tickets with attachments, `[TKT-…]` conversation threading, customer acknowledgements & replies, AES-256 encrypted mailbox credentials and retry-safe processing. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Gmail API](https://img.shields.io/badge/-Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white) ![Microsoft Graph](https://img.shields.io/badge/-Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Cron Schedulers](https://img.shields.io/badge/-Cron_Schedulers-FF6F00?style=flat-square) | 53-feature build |
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,24,20&height=70&section=header&text=Skills%20and%20Interests&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
 ## 🌟 Skills & Interests
 
-</div>
+<div align="center">
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎯 Currently Focused On</h3>
-      - 🔭 Scaling <strong>event-driven platforms</strong><br>
-      - 🐰 Deepening <strong>RabbitMQ / Kafka expertise</strong><br>
-      - 🌱 Mastering <strong>Distributed Systems Design</strong><br>
-      - 👯 Open to <strong>Open Source contributions</strong><br>
-      - 🤝 Seeking <strong>collaboration opportunities</strong><br>
-      - 🚀 Exploring <strong>Cloud Architecture & DevOps</strong><br>
-      - 👥 Growing <strong>engineering leaders</strong>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎨 Beyond Tech</h3>
-      - ⚽ <strong>Football</strong> - Strategy & teamwork<br>
-      - 📚 <strong>Reading</strong> - Tech & leadership books<br>
-      - 🌍 <strong>Travel</strong> - New places & cultures<br>
-      - 🎤 <strong>Knowledge Sharing</strong> - Talks & mentoring<br>
-      - 🧩 <strong>Problem Solving</strong> - Puzzles & design<br>
-      - ☕ <strong>Coffee</strong> - Fuel for late-night deploys
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎓 Always Learning</h3>
-      - 📚 Reading technical books<br>
-      - 🎯 Taking online courses<br>
-      - 🏗️ Building side projects<br>
-      - 🤝 Contributing to open source<br>
-      - 📝 Writing technical content<br>
-      - 🎤 Sharing knowledge<br>
-      - 🌱 Growing every day
-    </td>
-  </tr>
-</table>
+| 🎯 Currently Focused On | 🎨 Beyond Tech | 🎓 Always Learning |
+|:---:|:---:|:---:|
+| 🔭 Scaling **event-driven platforms** | ⚽ **Football** — strategy & teamwork | 📚 Reading technical books |
+| 🐰 Deepening **RabbitMQ / Kafka expertise** | 📚 **Reading** — tech & leadership books | 🎯 Taking online courses |
+| 🌱 Mastering **Distributed Systems Design** | 🌍 **Travel** — new places & cultures | 🏗️ Building side projects |
+| 👯 Open to **Open Source contributions** | 🎤 **Knowledge Sharing** — talks & mentoring | 🤝 Contributing to open source |
+| 🤝 Seeking **collaboration opportunities** | 🧩 **Problem Solving** — puzzles & design | 📝 Writing technical content |
+| 🚀 Exploring **Cloud Architecture & DevOps** | ☕ **Coffee** — fuel for late-night deploys | 🎤 Sharing knowledge |
+| 👥 Growing **engineering leaders** | | 🌱 Growing every day |
+
+</div>
 
 <div align="center">
   <em>*Great teams build great systems — I invest in both.*</em>
 </div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,11&height=70&section=header&text=Contribution%20Graph&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz-20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Arbaz's%20Contribution%20Graph" width="100%" />
-
-</div>
-
-> **💡 Tip:** If the graph above appears blank, [deploy your own instance](https://github.com/Ashutosh00710/github-readme-activity-graph) for 100% uptime.
 
 ---
 
